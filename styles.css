@@ -1,15 +1,14 @@
 
 /* Your CSS Code here. */
-holder{
+.holder{
 	margin: 0, auto;
 	padding: 0;
 	box-sizing: border-box;
 	display: flex;
 	justify-content: center;
+	align-items: center;
 }
 .item-1{
-	display: flex;
-	justify-content: center;
 	background-color: red;
 	width: 100px;
 	height: 100px;
